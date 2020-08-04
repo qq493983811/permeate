@@ -85,24 +85,4 @@ permeate系统提供在线安装功能，但很多人会报错，因此这里的
 
 ![sec](http://tuchuang.songboy.net/permeate/index.png?v=1)
 
-### 四、后期维护：
 
-考虑到目前的逻辑漏洞还不是太多，之后会继续添加更多功能，更新后会同步到GitHub，同时欢迎搭建加入qq群进行交流
-![sec](http://tuchuang.songboy.net/permeate.jpg)
-
-## Copyright
-
-<table>
-  <tr>
-    <td>Weibo</td><td>汤清松</td>
-  </tr>
-  <tr>
-    <td>QQ交流群</td><td>832677177</td>
-  </tr>
-  <tr>
-    <td>Copyright</td><td>Copyright (c) 2017- daxia</td>
-  </tr>
-  <tr>
-    <td>License</td><td>MIT License</td>
-  </tr>
-</table>
